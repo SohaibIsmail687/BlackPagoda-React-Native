@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558449965471",
+    "project_id": "black-b4f2d",
+    "storage_bucket": "black-b4f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558449965471:android:65d4458f71067da71625aa",
+        "android_client_info": {
+          "package_name": "com.black"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEKEdCJak0HnzKM6f_RkrJiAKZ5DskGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
